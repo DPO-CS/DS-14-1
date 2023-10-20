@@ -1,0 +1,201 @@
+﻿User ID,Area code,Location,Gender,YOB,Marital Status,Activity,Budget,Cuisines,Alcohol ,Smoker,Food Rating,Service Rating,Overall Rating,Often A S
+1,153,"Upper East Side,NY",Female,2006,Single,Professional,3,Japanese,Never,Never,5,4,4.5,No
+2,123,"St. George,NY",Female,1991,Married,Student,3,Indian,Never,Socially,1,1,1,No
+3,122,"Upper West Side,NY",Male,1977,Single,Student,5,Seafood,Often,Often,5,5,5,Yes
+4,153,"Upper East Side,NY",Female,1956,Married,Professional,5,Japanese,Never,Socially,3,1,2,No
+5,129,"Central Park,NY",Male,1997,Single,Student,4,Filipino,Socially,Never,2,4,3,No
+6,111,"China Town, NY",Male,1995,Single,Student,5,Seafood,Never,Never,5,1,3,No
+7,111,"China Town, NY",Female,1977,Married,Professional,5,Indian,Often,Socially,1,4,2.5,No
+8,153,"Upper East Side,NY",Female,2003,Single,Professional,3,Filipino,Often,Often,5,2,3.5,Yes
+9,107,"Riverdale,NY",Male,1965,Single,Student,5,Italian,Socially,Socially,3,3,3,No
+10,129,"Central Park,NY",Male,1995,Single,Student,4,Chinese,Often,Often,5,2,3.5,Yes
+11,123,"St. George,NY",Female,1975,Married,Professional,4,French,Never,Often,3,2,2.5,No
+12,123,"St. George,NY",Male,1963,Married,Student,4,Chinese,Never,Socially,3,1,2,No
+13,123,"St. George,NY",Female,2006,Single,Professional,5,Chinese,Socially,Never,5,5,5,No
+14,107,"Riverdale,NY",Male,1980,Single,Student,5,Italian,Often,Socially,5,2,3.5,No
+15,107,"Riverdale,NY",Male,1956,Married,Student,3,Filipino,Often,Never,1,1,1,No
+16,153,"Upper East Side,NY",Female,1956,Married,Student,3,French,Often,Never,4,1,2.5,No
+17,107,"Riverdale,NY",Male,2007,Single,Student,5,Seafood,Socially,Never,2,1,1.5,No
+18,153,"Upper East Side,NY",Male,2004,Single,Student,3,Japanese,Often,Often,1,5,3,Yes
+19,129,"Central Park,NY",Male,2001,Single,Student,3,Filipino,Socially,Socially,3,5,4,No
+20,129,"Central Park,NY",Male,1959,Married,Student,4,Seafood,Often,Never,3,1,2,No
+21,123,"St. George,NY",Female,2009,Single,Student,3,Indian,Socially,Often,5,3,4,No
+22,153,"Upper East Side,NY",Female,1983,Married,Professional,5,Italian,Socially,Never,1,4,2.5,No
+23,107,"Riverdale,NY",Female,1971,Married,Professional,5,Chinese,Never,Often,4,2,3,No
+24,154,"Market City, NY",Male,1974,Divorced,Professional,1,Seafood,Socially,Often,5,5,5,No
+25,129,"Central Park,ny",Male,1963,Single,Professional,3,Indian,Socially,Socially,2,5,3.5,No
+26,123,"St. George,NY",Male,1969,Single,Professional,3,Japanese,Never,Socially,4,3,3.5,No
+27,129,"Central Park,NY",Female,2001,Single,Student,3,Indian,Never,Socially,2,3,2.5,No
+28,111,"China Town, NY",Male,2000,Single,Student,5,Indian,Never,Never,1,5,3,No
+29,154,"Market City, NY",Female,1977,Married,Student,4,French,Socially,Never,2,1,1.5,No
+30,154,"Market City, NY",Female,1988,Married,Student,5,Seafood,Never,Socially,4,4,4,No
+31,107,"Riverdale,NY",Female,1999,Married,Student,4,Chinese,Never,Socially,3,2,2.5,No
+32,154,"Market City, MY",Male,1971,Married,Student,1,Indian,Never,Often,4,2,3,No
+33,122,"Upper West Side,NY",Male,1995,Single,Professional,3,Indian,Often,Never,3,2,2.5,No
+34,129,"Central Park,ny",Female,2009,Single,Professional,5,Indian,Socially,Socially,1,5,3,No
+35,129,"Central Park,NY",Male,2001,Divorced,Student,1,Japanese,Socially,Often,5,5,5,No
+36,107,"Riverdale,NY",Male,1998,Single,Professional,5,Japanese,Never,Socially,1,3,2,No
+37,154,"Market City, NY",Male,2006,Single,Student,4,Japanese,Often,Often,5,2,3.5,Yes
+38,123,"St. George,NY",Female,1990,Single,Student,5,French,Never,Never,3,2,2.5,No
+39,153,"Upper East Side,NY",Male,1987,Married,Student,4,French,Never,Never,2,3,2.5,No
+40,123,"St. George,NY",Male,1986,Single,Student,4,Filipino,Never,Never,3,1,2,No
+41,129,"Central Park,NY",Male,2001,Single,Student,2,Seafood,Often,Never,2,2,2,No
+42,154,"Market City, NY",Female,1967,Single,Student,5,Filipino,Often,Socially,5,5,5,No
+43,123,"St. George,NY",Male,1985,Married,Student,5,Japanese,Never,Never,3,1,2,No
+44,129,"Central Park,NY",Male,2000,Single,Student,3,French,Never,Often,4,1,2.5,No
+45,123,"St. George,NY",Female,1969,Married,Professional,3,Italian,Often,Never,4,1,2.5,No
+46,111,"China Town, NY",Male,1976,Married,Student,3,Chinese,Never,Never,2,5,3.5,No
+47,129,"Central Park,ny",Male,1976,Single,Professional,3,French,Often,Socially,5,3,4,No
+48,122,"Upper West Side,NY",Female,1987,Married,Professional,3,Seafood,Never,Socially,1,5,3,No
+49,111,"China Town, NY",Male,1998,Single,Student,3,Seafood,Never,Socially,1,2,1.5,No
+50,107,"Riverdale,NY",Female,1974,Married,Student,5,Japanese,Socially,Socially,2,5,3.5,No
+51,107,"Riverdale,NY",Female,2007,Single,Student,4,Japanese,Often,Often,5,5,5,Yes
+52,153,"Upper East Side,NY",Female,2005,Single,Student,3,Chinese,Often,Socially,3,2,2.5,No
+53,153,"Upper East Side,NY",Female,1974,Single,Professional,4,Chinese,Never,Often,3,5,4,No
+54,123,"St. George,NY",Male,1989,Single,Professional,5,Filipino,Socially,Often,4,4,4,No
+55,107,"Riverdale,NY",Female,1958,Single,Professional,5,Filipino,Socially,Socially,5,3,4,No
+56,122,"Upper West Side,NY",Female,1991,Single,Professional,4,Filipino,Often,Socially,3,1,2,No
+57,123,"St. George,NY",Female,1981,Divorced,Student,2,Italian,Socially,Often,5,5,5,No
+58,129,"Central Park,ny",Male,1962,Married,Professional,3,Filipino,Never,Never,3,4,3.5,No
+59,123,"St. George,NY",Male,1964,Single,Student,5,Japanese,Never,Socially,4,2,3,No
+60,122,"Upper West Side,NY",Male,1959,Married,Professional,5,Italian,Socially,Socially,2,2,2,No
+61,129,"Central Park,NY",Female,2003,Single,Student,4,Japanese,Never,Never,4,3,3.5,No
+62,122,"Upper West Side,NY",Female,1955,Divorced,Professional,4,Japanese,Never,Often,5,5,5,No
+63,123,"St. George,NY",Male,2002,Single,Student,4,Japanese,Never,Often,5,5,5,No
+64,153,"Upper East Side,NY",Female,1989,Married,Student,5,Italian,Never,Socially,1,1,1,No
+65,129,"Central Park,NY",Female,1996,Single,Student,4,Italian,Never,Never,5,5,5,No
+66,107,"Riverdale,NY",Male,1975,Married,Student,4,French,Socially,Often,2,5,3.5,No
+67,111,"China Town, NY",Male,2009,Single,Student,3,Seafood,Socially,Never,3,3,3,No
+68,154,"Market City, NY",Male,2000,Married,Professional,3,Indian,Never,Often,5,2,3.5,No
+69,111,"China Town, NY",Male,1961,Married,Student,4,French,Never,Socially,3,3,3,No
+70,107,"Riverdale,NY",Female,1998,Single,Student,1,Italian,Never,Often,2,5,3.5,No
+71,154,"Market City, NY",Male,1957,Married,Student,5,Japanese,Socially,Often,4,4,4,No
+72,123,"St. George,NY",Male,2006,Single,Student,5,Filipino,Socially,Never,1,2,1.5,No
+73,123,"St. George,NY",Male,1962,Married,Professional,4,Indian,Never,Never,1,1,1,No
+74,153,"Upper East Side,NY",Male,1994,Married,Student,3,Indian,Often,Socially,1,5,3,No
+75,123,"St. George,NY",Male,2002,Single,Student,3,Filipino,Never,Never,3,4,3.5,No
+76,154,"Market City, NY",Male,1955,Married,Professional,3,Indian,Never,Socially,2,3,2.5,No
+77,129,"Central Park,NY",Male,1974,Single,Professional,3,Filipino,Socially,Never,2,5,3.5,No
+78,153,"Upper East Side,NY",Male,1979,Single,Student,5,Chinese,Socially,Never,5,1,3,No
+79,111,"China Town, NY",Male,1965,Married,Professional,3,Seafood,Often,Often,5,5,5,Yes
+80,111,"China Town, NY",Female,1998,Single,Student,1,Filipino,Often,Socially,1,5,3,No
+81,154,"Market City, NY",Female,1974,Married,Professional,4,French,Never,Socially,4,4,4,No
+82,153,"Upper East Side,NY",Male,1964,Married,Professional,4,Chinese,Often,Socially,3,5,4,No
+83,122,"Upper West Side,NY",Male,1996,Married,Student,4,French,Often,Socially,2,4,3,No
+84,154,"Market City, NY",Male,1981,Married,Student,5,Japanese,Socially,Often,5,4,4.5,No
+85,153,"Upper East Side,NY",Female,1978,Divorced,Student,4,Chinese,Often,Often,5,5,5,Yes
+86,107,"Riverdale,NY",Male,1999,Single,Student,4,Japanese,Often,Often,4,1,2.5,Yes
+87,123,"St. George,NY",Male,1961,Married,Professional,4,Filipino,Often,Socially,1,5,3,No
+88,129,"Central Park,NY",Female,2007,Single,Professional,5,French,Often,Often,5,5,5,Yes
+89,122,"Upper West Side,NY",Female,2003,Married,Professional,4,French,Often,Often,5,5,5,Yes
+90,123,"St. George,NY",Male,1988,Divorced,Professional,3,Indian,Often,Often,5,5,5,Yes
+91,154,"Cedar Hill, NY",Male,1960,Married,Professional,4,Indian,Socially,Socially,2,5,3.5,No
+92,111,"China Town, NY",Male,1969,Divorced,Professional,3,French,Never,Often,3,1,2,No
+93,123,"St. George,NY",Male,2000,Single,Professional,5,French,Never,Often,5,5,5,No
+94,107,"Riverdale,NY",Female,1985,Married,Student,5,Filipino,Often,Never,1,4,2.5,No
+95,111,"China Town, NY",Male,1974,Married,Student,3,Indian,Often,Often,2,5,3.5,Yes
+96,123,"St. George,NY",Female,1982,Single,Professional,4,French,Never,Socially,1,2,1.5,No
+97,122,"Upper West Side,NY",Female,2000,Married,Student,4,Chinese,Never,Often,1,2,1.5,No
+98,123,"St. George,NY",Female,2006,Single,Professional,5,Japanese,Never,Often,5,2,3.5,No
+99,123,"St. George,NY",Male,2002,Married,Student,3,Filipino,Never,Socially,3,2,2.5,No
+100,153,"Upper East Side,NY",Male,2005,Married,Student,4,French,Never,Never,3,2,2.5,No
+101,117,"Upper East Side,NY",Female,2006,Single,Professional,3,Japanese,Never,Socially,4,4,4,No
+102,192,"St. George,NY",Female,1991,Married,Student,4,Indian,Never,Never,4,3,3.5,No
+103,137,"Upper West Side,NY",Male,1977,Single,Student,5,Seafood,Often,Often,4,2,3,Yes
+104,121,"Upper East Side,NY",Female,1956,Married,Professional,5,Japanese,Never,Socially,3,1,2,No
+105,198,"Central Park,NY",Male,1997,Single,Student,4,Filipino,Socially,Never,2,4,3,No
+106,172,"China Town, NY",Male,1995,Single,Student,5,Seafood,Never,Often,4,3,3.5,No
+107,188,"China Town, NY",Female,1977,Married,Professional,5,Indian,Never,Socially,5,4,4.5,No
+108,166,"Upper East Side,NY",Female,2003,Single,Professional,3,Filipino,Often,Often,4,2,3,Yes
+109,124,"Riverdale,NY",Male,1965,Single,Student,5,Italian,Socially,Often,5,3,4,No
+110,129,"Central Park,NY",Male,1995,Single,Student,4,Chinese,Often,Often,4,3,3.5,Yes
+111,131,"St. George,NY",Female,1975,Married,Professional,4,French,Socially,Often,3,3,3,No
+112,149,"St. George,NY",Male,1963,Married,Student,4,Chinese,Never,Socially,3,1,2,No
+113,101,"St. George,NY",Female,2006,Single,Professional,5,Chinese,Socially,Never,5,4,4.5,No
+114,104,"Riverdale,NY",Male,1980,Single,Student,5,Italian,Often,Socially,5,3,4,No
+115,140,"Riverdale,NY",Male,1956,Married,Student,3,Filipino,Often,Never,2,2,2,No
+116,145,"Upper East Side,NY",Female,1956,Married,Student,3,French,Often,Never,4,1,2.5,No
+117,159,"Riverdale,NY",Male,2007,Single,Student,5,Seafood,Socially,Never,3,1,2,No
+118,195,"Upper East Side,NY",Male,2004,Single,Student,3,Japanese,Often,Often,2,5,3.5,Yes
+119,105,"Central Park,NY",Male,2001,Single,Student,3,Filipino,Socially,Socially,3,5,4,No
+120,198,"Central Park,NY",Male,1959,Married,Student,4,Seafood,Often,Never,3,1,2,No
+121,130,"St. George,NY",Female,2009,Single,Student,3,Indian,Socially,Often,5,3,4,No
+122,139,"Upper East Side,NY",Female,1983,Married,Professional,5,Italian,Socially,Never,1,4,2.5,No
+123,111,"Riverdale,NY",Female,1971,Married,Professional,5,Chinese,Never,Often,4,2,3,No
+124,113,"Market City, NY",Male,1974,Divorced,Professional,1,Seafood,Socially,Often,5,5,5,No
+125,123,"Central Park,ny",Male,1963,Single,Professional,3,Indian,Socially,Socially,3,5,4,No
+126,127,"St. George,NY",Male,1969,Single,Professional,3,Japanese,Never,Socially,4,3,3.5,No
+127,134,"Central Park,NY",Female,2001,Single,Student,3,Indian,Never,Socially,2,3,2.5,No
+128,148,"China Town, NY",Male,2000,Single,Student,5,Indian,Never,Never,3,5,4,No
+129,154,"Market City, NY",Female,1977,Married,Student,4,French,Socially,Never,2,1,1.5,No
+130,158,"Market City, NY",Female,1988,Married,Student,5,Seafood,Never,Socially,4,4,4,No
+131,159,"Riverdale,NY",Female,1999,Married,Student,4,Chinese,Never,Socially,3,2,2.5,No
+132,159,"Market City, MY",Male,1971,Married,Student,1,Indian,Never,Often,4,2,3,No
+133,161,"Upper West Side,NY",Male,1995,Single,Professional,3,Indian,Often,Never,4,2,3,No
+134,167,"Central Park,ny",Female,2009,Single,Professional,5,Indian,Socially,Socially,3,5,4,No
+135,172,"Central Park,NY",Male,2001,Divorced,Student,1,Japanese,Socially,Often,4,5,4.5,No
+136,176,"Riverdale,NY",Male,1998,Single,Professional,5,Japanese,Never,Socially,2,3,2.5,No
+137,110,"Market City, NY",Male,2006,Single,Student,4,Japanese,Often,Often,4,2,3,Yes
+138,120,"St. George,NY",Female,1990,Single,Student,5,French,Never,Never,3,2,2.5,No
+139,131,"Upper East Side,NY",Male,1987,Married,Student,4,French,Never,Never,2,3,2.5,No
+140,137,"St. George,NY",Male,1986,Single,Student,4,Filipino,Never,Never,3,1,2,No
+141,142,"Central Park,NY",Male,2001,Single,Student,2,Seafood,Often,Never,2,2,2,No
+142,162,"Market City, NY",Female,1967,Single,Student,5,Filipino,Often,Socially,5,5,5,No
+143,173,"St. George,NY",Male,1985,Married,Student,5,Japanese,Never,Never,3,1,2,No
+144,184,"Central Park,NY",Male,2000,Single,Student,3,French,Never,Often,4,1,2.5,No
+145,199,"St. George,NY",Female,1969,Married,Professional,3,Italian,Often,Never,4,1,2.5,No
+146,102,"China Town, NY",Male,1976,Married,Student,3,Chinese,Never,Never,2,5,3.5,No
+147,106,"Central Park,ny",Male,1976,Single,Professional,3,French,Often,Socially,5,3,4,No
+148,113,"Upper West Side,NY",Female,1987,Married,Professional,3,Seafood,Never,Socially,1,5,3,No
+149,142,"China Town, NY",Male,1998,Single,Student,3,Seafood,Never,Socially,1,2,1.5,No
+150,157,"Riverdale,NY",Female,1974,Married,Student,5,Japanese,Socially,Socially,2,5,3.5,No
+151,185,"Riverdale,NY",Female,2007,Single,Student,4,Japanese,Often,Often,5,5,5,Yes
+152,147,"Upper East Side,NY",Female,2005,Single,Student,3,Chinese,Often,Socially,3,2,2.5,No
+153,183,"Upper East Side,NY",Female,1974,Single,Professional,4,Chinese,Never,Often,3,5,4,No
+154,138,"St. George,NY",Male,1989,Single,Professional,5,Filipino,Socially,Often,4,4,4,No
+155,136,"Riverdale,NY",Female,1958,Single,Professional,5,Filipino,Socially,Socially,5,3,4,No
+156,169,"Upper West Side,NY",Female,1991,Single,Professional,4,Filipino,Often,Socially,3,1,2,No
+157,176,"St. George,NY",Female,1981,Divorced,Student,2,Italian,Socially,Often,5,5,5,No
+158,196,"Central Park,ny",Male,1962,Married,Professional,3,Filipino,Never,Never,3,4,3.5,No
+159,175,"St. George,NY",Male,1964,Single,Student,5,Japanese,Never,Socially,4,2,3,No
+160,135,"Upper West Side,NY",Male,1959,Married,Professional,5,Italian,Socially,Socially,2,2,2,No
+161,124,"Central Park,NY",Female,2003,Single,Student,4,Japanese,Never,Never,4,3,3.5,No
+162,125,"Upper West Side,NY",Female,1955,Divorced,Professional,4,Japanese,Never,Often,5,5,5,No
+163,158,"St. George,NY",Male,2002,Single,Student,4,Japanese,Never,Often,5,5,5,No
+164,186,"Upper East Side,NY",Female,1989,Married,Student,5,Italian,Never,Socially,1,1,1,No
+165,176,"Central Park,NY",Female,1996,Single,Student,4,Italian,Never,Never,5,5,5,No
+166,194,"Riverdale,NY",Male,1975,Married,Student,4,French,Socially,Often,2,5,3.5,No
+167,173,"China Town, NY",Male,2009,Single,Student,3,Seafood,Socially,Never,3,3,3,No
+168,182,"Market City, NY",Male,2000,Married,Professional,3,Indian,Never,Often,5,2,3.5,No
+169,196,"China Town, NY",Male,1961,Married,Student,4,French,Never,Socially,3,3,3,No
+170,197,"Riverdale,NY",Female,1998,Single,Student,1,Italian,Never,Often,2,5,3.5,No
+171,176,"Market City, NY",Male,1957,Married,Student,5,Japanese,Socially,Often,4,4,4,No
+172,169,"St. George,NY",Male,2006,Single,Student,5,Filipino,Socially,Never,1,2,1.5,No
+173,184,"St. George,NY",Male,1962,Married,Professional,4,Indian,Never,Never,1,1,1,No
+174,192,"Upper East Side,NY",Male,1994,Married,Student,3,Indian,Often,Socially,1,5,3,No
+175,135,"St. George,NY",Male,2002,Single,Student,3,Filipino,Never,Never,3,4,3.5,No
+176,186,"Market City, NY",Male,1955,Married,Professional,3,Indian,Never,Socially,2,3,2.5,No
+177,175,"Central Park,NY",Male,1974,Single,Professional,3,Filipino,Socially,Never,2,5,3.5,No
+178,179,"Upper East Side,NY",Male,1979,Single,Student,5,Chinese,Socially,Never,5,1,3,No
+179,149,"China Town, NY",Male,1965,Married,Professional,3,Seafood,Often,Often,5,5,5,Yes
+180,139,"China Town, NY",Female,1998,Single,Student,1,Filipino,Often,Socially,1,5,3,No
+181,163,"Market City, NY",Female,1974,Married,Professional,4,French,Never,Socially,4,4,4,No
+182,162,"Upper East Side,NY",Male,1964,Married,Professional,4,Chinese,Often,Socially,3,5,4,No
+183,162,"Upper West Side,NY",Male,1996,Married,Student,4,French,Often,Socially,2,4,3,No
+184,166,"Market City, NY",Male,1981,Married,Student,5,Japanese,Socially,Often,5,4,4.5,No
+185,158,"Upper East Side,NY",Female,1978,Divorced,Student,4,Chinese,Often,Often,5,5,5,Yes
+186,136,"Riverdale,NY",Male,1999,Single,Student,4,Japanese,Often,Often,4,1,2.5,Yes
+187,186,"St. George,NY",Male,1961,Married,Professional,4,Filipino,Often,Socially,1,5,3,No
+188,137,"Central Park,NY",Female,2007,Single,Professional,5,French,Often,Often,5,5,5,Yes
+189,154,"Upper West Side,NY",Female,2003,Married,Professional,4,French,Often,Often,5,5,5,Yes
+190,167,"St. George,NY",Male,1988,Divorced,Professional,3,Indian,Often,Often,5,5,5,Yes
+191,185,"Cedar Hill, NY",Male,1960,Married,Professional,4,Indian,Socially,Socially,2,5,3.5,No
+192,178,"China Town, NY",Male,1969,Divorced,Professional,3,French,Never,Often,3,1,2,No
+193,105,"St. George,NY",Male,2000,Single,Professional,5,French,Never,Often,5,5,5,No
+194,103,"Riverdale,NY",Female,1985,Married,Student,5,Filipino,Often,Never,1,4,2.5,No
+195,107,"China Town, NY",Male,1974,Married,Student,3,Indian,Often,Often,2,5,3.5,Yes
+196,175,"St. George,NY",Female,1982,Single,Professional,4,French,Never,Socially,1,2,1.5,No
+197,170,"Upper West Side,NY",Female,2000,Married,Student,4,Chinese,Never,Often,1,2,1.5,No
+198,160,"St. George,NY",Female,2006,Single,Professional,5,Japanese,Never,Often,5,2,3.5,No
+199,130,"St. George,NY",Male,2002,Married,Student,3,Filipino,Never,Socially,3,2,2.5,No
+200,140,"Upper East Side,NY",Male,2005,Married,Student,4,French,Never,Never,3,2,2.5,No
